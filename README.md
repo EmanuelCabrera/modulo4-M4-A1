@@ -115,7 +115,7 @@ Dependencias de abstracciones, no de implementaciones:
 mvn clean compile
 ```
 
-## Ejecución para correr la prueba
+## Ejecución
 
 ```bash
 mvn exec:java
