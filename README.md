@@ -115,10 +115,10 @@ Dependencias de abstracciones, no de implementaciones:
 mvn clean compile
 ```
 
-## Ejecución
+## Ejecución para correr la prueba
 
 ```bash
-mvn exec:java -Dexec.mainClass="com.mindhub.order.main.OrderSystem"
+mvn exec:java
 ```
 
 El programa demostrará:
